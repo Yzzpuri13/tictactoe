@@ -13,6 +13,14 @@ To play the game, follow these steps:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Yzzpuri13/tictactoe.git
+2. Navigate into the project directory:
+   ```bash
+   cd tictactoe
+3. Run the game
+   ```bash
+   python tic_tac_toe.py
+
+
 
 <h1>How to Play</h1>
 The game is played on a 3x3 grid.
