@@ -20,19 +20,25 @@ The game is played on a 3x3 grid.
 You are 'X', and the computer is 'O'.
 
 On your turn, input a number from 1-9 to place your 'X' on the board. The numbers correspond to the board positions as follows:
+
 1 | 2 | 3
 ---------
 4 | 5 | 6
 ---------
 7 | 8 | 9
+
 The first player to align three of their symbols vertically, horizontally, or diagonally wins.
 
 If the board is filled and no player has aligned three symbols, the game is a tie.
 
-<h1>Features</h1>
-Console-based gameplay for easy access and play.
-Simple computer AI for a challenging but fair opponent.
-Win and tie detection to conclude the game.
+
+## Features
+
+- **Console-Based Interface**: The game is run in the console, making it accessible and easy to play without the need for a graphical interface.
+- **Player vs. Computer Gameplay**: Challenge yourself against a computer opponent that makes its moves randomly, ensuring a unique game experience each time.
+- **Automatic Win and Tie Detection**: The game automatically detects and announces a win for either player or a tie, ensuring clear game outcomes.
+- **Simple and Intuitive**: With a straightforward number-based input system, the game is easy to play for users of all ages.
+
 
 <h1>Acknowledgments</h1>
 This project was inspired by Tech with Tim and his Python Tic Tac Toe Tutorial. His clear explanations and engaging teaching style provided a great foundation for building this project.
