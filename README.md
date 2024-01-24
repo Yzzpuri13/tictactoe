@@ -20,7 +20,6 @@ The game is played on a 3x3 grid.
 You are 'X', and the computer is 'O'.
 
 On your turn, input a number from 1-9 to place your 'X' on the board. The numbers correspond to the board positions as follows:
-
 1 | 2 | 3
 ---------
 4 | 5 | 6
